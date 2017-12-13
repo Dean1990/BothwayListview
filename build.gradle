@@ -26,7 +26,7 @@ dependencies {
 }
 
 apply plugin: 'com.github.dcendents.android-maven'
-group='com.github.bothwaylistview'
+group='com.github.Dean1990'
 
 // build a jar with source files
 task sourcesJar(type: Jar) {
