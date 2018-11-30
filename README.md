@@ -24,7 +24,7 @@ allprojects {
 
 ```groovy
 dependencies {
-        compile 'com.github.Dean1990:BothwayListview:-SNAPSHOT'
+        implementation 'com.github.Dean1990:BothwayListview:-SNAPSHOT'
 }
 ```
 
